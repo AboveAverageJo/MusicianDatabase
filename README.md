@@ -1,8 +1,8 @@
 # What I Learned
-*Parse CSV Files
-*Learn Python
-*Use Python and SQLite concurrently to build a database
-*Practice SQLite commands
+* Parse CSV Files
+* Learn Python
+* Use Python and SQLite concurrently to build a database
+* Practice SQLite commands
 
 # Syntax
 python update.py —[add][del] --table [table_name] --record [record]
