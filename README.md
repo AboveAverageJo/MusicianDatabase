@@ -6,6 +6,7 @@
 
 # Syntax
 python update.py —[add][del] --table [table_name] --record [record]  
+python update.py --add --table album --record Hello World,1994,CD,001 
 When deleting a row is it dependent on the key(s) of the table; for instance,
 the table album_instrument has two keys, (album_id, instrument_id)
 since there are multiple instances of an id in a row, both columns
