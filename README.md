@@ -11,7 +11,7 @@ the table album_instrument has two keys, (album_id, instrument_id)
 since there are multiple instances of an id in a row, both columns
 are used as a key.
 
-#Challenges
+# Challenges
 I had some trouble running the code at first but switched to the vs code terminal
 and it started working, it might have been something on my end since I was using 
 the terminal on the mac.  
